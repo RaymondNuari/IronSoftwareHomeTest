@@ -1,0 +1,14 @@
+/Users/raymond.nuari/IronSoftwareHomeTest/obj/Debug/net9.0/IronSoftwareHomeTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raymond.nuari/IronSoftwareHomeTest/obj/Debug/net9.0/IronSoftwareHomeTest.AssemblyInfoInputs.cache
+/Users/raymond.nuari/IronSoftwareHomeTest/obj/Debug/net9.0/IronSoftwareHomeTest.AssemblyInfo.cs
+/Users/raymond.nuari/IronSoftwareHomeTest/obj/Debug/net9.0/IronSoftwareHomeTest.csproj.CoreCompileInputs.cache
+/Users/raymond.nuari/IronSoftwareHomeTest/bin/Debug/net9.0/IronSoftwareHomeTest
+/Users/raymond.nuari/IronSoftwareHomeTest/bin/Debug/net9.0/IronSoftwareHomeTest.deps.json
+/Users/raymond.nuari/IronSoftwareHomeTest/bin/Debug/net9.0/IronSoftwareHomeTest.runtimeconfig.json
+/Users/raymond.nuari/IronSoftwareHomeTest/bin/Debug/net9.0/IronSoftwareHomeTest.dll
+/Users/raymond.nuari/IronSoftwareHomeTest/bin/Debug/net9.0/IronSoftwareHomeTest.pdb
+/Users/raymond.nuari/IronSoftwareHomeTest/obj/Debug/net9.0/IronSoftwareHomeTest.dll
+/Users/raymond.nuari/IronSoftwareHomeTest/obj/Debug/net9.0/refint/IronSoftwareHomeTest.dll
+/Users/raymond.nuari/IronSoftwareHomeTest/obj/Debug/net9.0/IronSoftwareHomeTest.pdb
+/Users/raymond.nuari/IronSoftwareHomeTest/obj/Debug/net9.0/IronSoftwareHomeTest.genruntimeconfig.cache
+/Users/raymond.nuari/IronSoftwareHomeTest/obj/Debug/net9.0/ref/IronSoftwareHomeTest.dll
